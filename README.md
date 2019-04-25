@@ -1,4 +1,5 @@
 # KernelRegression
 
 ---
-hoge
+
+- kernel regression example
